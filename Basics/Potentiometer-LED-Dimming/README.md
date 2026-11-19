@@ -1,5 +1,5 @@
 
-# Button-Controlled LED Dimming
+# Dimming LED brightness with a Potentiometer
 
 ## Overview
 
