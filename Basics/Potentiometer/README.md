@@ -1,8 +1,9 @@
 # Dimming LED brightness with a Potentiometer
 
 ## Overview
-Date completed: 11/18/26
-Built a circuit where a potentiometer controls LED brightness and a button toggles the LED between ON and OFF.
+
+- Date completed: 11/18/26
+- Built a circuit where a potentiometer controls LED brightness and a button toggles the LED between ON and OFF.
 
 ## Components
 
