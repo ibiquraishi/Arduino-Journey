@@ -1,6 +1,8 @@
 # Button-Controlled LED
 
-## Built a circuit where a button turns a project on and off with each press (a simple LED being the project for this circuit)
+## Overview
+- Date Completed: 11/17/26
+- Built a circuit where a button turns a project on and off with each press (a simple LED being the project for this circuit)
 
 ## Components
 - Arduino Uno
